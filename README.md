@@ -1,4 +1,4 @@
-# Selected materials about development area - Inspired in (awesome)[https://github.com/sindresorhus/awesome]
+# Selected materials about development area - Inspired in [awesome](https://github.com/sindresorhus/awesome)
 
 ## Books
 
