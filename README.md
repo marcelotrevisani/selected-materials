@@ -15,6 +15,9 @@
 
 * [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho
 
+#### PyTest
+ * [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.co.uk/Python-Testing-pytest-Brian-Okken/dp/1680502409/) - Brian Okken
+ * [PyTest Quick Start Guide: Write better Python code with simple and maintainable tests](https://www.amazon.co.uk/pytest-Quick-Start-Guide-maintainable/dp/1789347564) - Bruno Oliveira
 
 ### C++
 
@@ -28,6 +31,14 @@
 ### C++
  * Blog focused in modern C++ - [https://www.bfilipek.com/](https://www.bfilipek.com/)
  
+ 
+ --------------------------------------------------------------------------
+ 
+ ## Podcasts
+ 
+  * [TalkPython](https://talkpython.fm) - Python Podcast
+  * [Test & Code](https://testandcode.com/)
+  
  
  # Contributions
  
