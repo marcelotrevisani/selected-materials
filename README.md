@@ -40,6 +40,15 @@
   * [Test & Code](https://testandcode.com/)
   
  
+ --------------------------------------------------------------------------
+ 
+ ## Articles
+ 
+  * [Steps to better code](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9) - Isaac Lyman
+  * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
+  * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) - Martin Fowler
+  * [https://github.blog/2015-12-15-move-fast/](https://github.blog/2015-12-15-move-fast/) - Vicent Martí 
+ 
  # Contributions
  
  Contributions are very welcome. Please open a PR. :)
