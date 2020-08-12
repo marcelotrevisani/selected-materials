@@ -14,6 +14,7 @@
 ### Python
 
 * [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho
+* [Architecture Patterns with Python](https://www.goodreads.com/book/show/52592131-architecture-patterns-with-python) - Harry J.W. Percival & Bob Gregory
 
 #### PyTest
  * [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](https://www.amazon.co.uk/Python-Testing-pytest-Brian-Okken/dp/1680502409/) - Brian Okken
