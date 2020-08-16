@@ -23,6 +23,10 @@
 ### C++
 
  * [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c?from_search=true) - Scott Meyers
+ 
+
+### Erlang
+ * [Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/) - Fred Hebert
 
 --------------------------------------------------------------------------
 
